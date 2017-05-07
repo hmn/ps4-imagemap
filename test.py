@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 
 def dict_raise_on_duplicates(ordered_pairs):
