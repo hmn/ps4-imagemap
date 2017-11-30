@@ -65,5 +65,8 @@
     "CUSA07402": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0002-CUSA07402_00-CRASHNSANETRLOGY/1504720312000/image?_version=00_09_000&platform=chihiro&w=1024&h=1024&bg_color=000000&opacity=100",
     "CUSA00006": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-CUSA08014_00-KNACK20000000000/1506870111000/image?_version=00_09_000&platform=chihiro&w=1024&h=1024&bg_color=000000&opacity=100",
     "CUSA03107": "https://store.playstation.com/store/api/chihiro/00_09_000/container/AT/de/999/EP8809-CUSA03107_00-WEBMAFSKYONLINED/1509522996000/image?_version=00_09_000&platform=chihiro&w=1024&h=1024&bg_color=000000&opacity=100",
-    "CUSA00499": "https://store.playstation.com/store/api/chihiro/00_09_000/container/AT/de/999/EP4473-CUSA00499_00-STEAMWORLDDIG000/1509533738000/image?_version=00_09_000&platform=chihiro&w=1024&h=1024&bg_color=000000&opacity=100"
+    "CUSA00499": "https://store.playstation.com/store/api/chihiro/00_09_000/container/AT/de/999/EP4473-CUSA00499_00-STEAMWORLDDIG000/1509533738000/image?_version=00_09_000&platform=chihiro&w=1024&h=1024&bg_color=000000&opacity=100",
+    "CUSA05749": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP0006-CUSA05749_00-BATTLEFRONTII000/1511942047000/image?w=1024&h=1024&bg_color=000000&opacity=100&_version=00_09_000",
+    "CUSA07320": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP9000-CUSA07320_00-HRZ0000000000000/1511956402000/image?w=1024&h=1024&bg_color=000000&opacity=100&_version=00_09_000",
+    "CUSA00135": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/19/EP1018-CUSA00135_00-BAKPREORDER00001/1511942069000/image?w=1024&h=1024&bg_color=000000&opacity=100&_version=00_09_000"
 }
